@@ -1,0 +1,4 @@
+#+AUTHOR: Lmxyy
+#+TITLE: Operating System Project 1: Fantasy Ptrace
+* Reference
+- [[https://github.com/jinningli/system2018-project1][Manual of the Project]]
